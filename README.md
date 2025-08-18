@@ -38,7 +38,7 @@ Me chamo Igor Bernardo Rocha, tenho 20 anos e sou natural do Piauí. Concluí o 
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
