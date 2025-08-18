@@ -34,7 +34,6 @@ Me chamo Igor Bernardo Rocha, tenho 20 anos e sou natural do Piauí. Concluí o 
 
 ### Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="C" 
@@ -42,6 +41,24 @@ Me chamo Igor Bernardo Rocha, tenho 20 anos e sou natural do Piauí. Concluí o 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML5" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 <br/>
@@ -60,5 +77,3 @@ Me chamo Igor Bernardo Rocha, tenho 20 anos e sou natural do Piauí. Concluí o 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoov&line_height=10&card_width=300&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,scss,less&bg_color=000&text_color=696969&border_radius=3&border_color=696969&count_private=true&locale=pt-br" alt="Linguagens">
   </a>
 </div>
-
-
