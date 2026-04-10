@@ -2,7 +2,7 @@
 
 **`Acadêmico em Sistemas de Informação`**
 
-Me chamo Igor Bernardo Rocha, tenho 20 anos e sou natural do Piauí. Concluí o Ensino Médio no CETI Maria Antonieta, onde também obtive um certificado de conclusão do curso de Informática pelo Millenium Formação Profissional. Atualmente, curso Sistemas de Informação na UFPI.
+Me chamo Igor Bernardo Rocha, tenho 21 anos e sou natural do Piauí. Concluí o Ensino Médio no CETI Maria Antonieta, onde também obtive um certificado de conclusão do curso de Informática pelo Millenium Formação Profissional. Atualmente, curso Sistemas de Informação na UFPI.
 
 Sou apaixonado por tecnologia e suas diversas aplicações, com foco atual nos estudos de programação.
 
