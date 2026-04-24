@@ -22,8 +22,6 @@ Sou apaixonado por tecnologia e suas diversas aplicações, com foco atual nos e
 
 ---
 
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
